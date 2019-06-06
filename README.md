@@ -4,6 +4,8 @@
   
   ![功能1](./imgs/music3.gif)
   ![功能2](./imgs/music4.gif)
+  
+  [更多](./imgs)截图
 
 ## 功能
   + 播放器内核
